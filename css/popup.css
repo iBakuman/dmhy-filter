@@ -1,0 +1,9 @@
+body {
+    min-width: 300px;
+    font-size: 15px;
+}
+
+input {
+    margin: 5px;
+    outline: none;
+}
